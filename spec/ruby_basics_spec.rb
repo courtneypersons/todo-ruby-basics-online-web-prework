@@ -38,9 +38,10 @@ describe "ruby" do
     end
 
     it 'raises an error with one argument' do
-      greeting = "Hi there, "
+      greeting = "Hi there "
 
-      expect{ greeting(greeting)}.to raise_error
+      expect{ greeting(greeting)}.to raise_error(nameError)
+
     end
   end
 
