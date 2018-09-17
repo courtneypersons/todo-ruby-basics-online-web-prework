@@ -12,7 +12,7 @@ end
 
 def greeting (greetings = "Hi there, ", name = "Bobby!")
 
-puts "#{greeting}" "#{name}"
+puts "#{greetings}" "#{name}"
 
 
 end
