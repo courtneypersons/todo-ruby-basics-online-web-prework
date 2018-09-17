@@ -28,6 +28,6 @@ end
 
 def pizza_party(topping1 = "cheese", topping2 = "pepperoni")
 
-puts "{topping1}" "{topping2}"
+return "{topping1}" "{topping2}"
 
 end
