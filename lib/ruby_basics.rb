@@ -28,6 +28,6 @@ end
 
 def pizza_party(toppings = "cheese")
 
-"#{topping1}"
+"#{toppings}"
 
 end
