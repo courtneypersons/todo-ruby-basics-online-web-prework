@@ -18,7 +18,7 @@ end
 
 def greeting(greeting)
 
-"greeting(greeting)""
+"greeting(greeting)"
 end
 
 
