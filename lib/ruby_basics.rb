@@ -17,7 +17,7 @@ def greeting (greeting = "Hi there, ", name = "Bobby!")
 end
 
 def greeting(greeting)
-greeting(greeting)
+{greeting(greeting)}
 end
 
 
