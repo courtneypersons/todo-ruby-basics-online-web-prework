@@ -10,7 +10,7 @@ def argue(phrase = "I'm right and you are wrong!")
 return "#{phrase}"
 end
 
-def greeting (greetings = "Hi there, ", name = "Bobby!")
+def greeting (greeting = "Hi there, ", name = "Bobby!")
 
  greeting(greeting + name) 
 
