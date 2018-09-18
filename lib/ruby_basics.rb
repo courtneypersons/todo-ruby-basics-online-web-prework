@@ -12,7 +12,7 @@ end
 
 def greeting (greeting = "Hi there, ", name = "Bobby!")
 
- return ("#{greeting}" + x + "#{name}")
+ return (x + "#{greeting}"  + "#{name}")
 
 end
 
