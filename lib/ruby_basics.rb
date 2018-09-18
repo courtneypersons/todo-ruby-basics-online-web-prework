@@ -16,11 +16,6 @@ def greeting (greeting = "Hi there, ", name = "Bobby!")
 
 end
 
-def greeting(greeting = "Hi there, ")
-
-greeting(greeting)
-
-end
 
 
 
